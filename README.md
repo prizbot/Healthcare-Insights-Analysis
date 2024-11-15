@@ -38,10 +38,6 @@ The dataset contains 5,190 observations across 12 variables, covering aspects su
 - **Gender Trends:** Visualized the gender-wise distribution of illnesses and reduced activity days.
 - **Correlation Analysis:** Highlighted significant relationships between variables.
 
-## 📝 Demo Link
-
-Access the full analysis and code in the Jupyter Notebook here: [Project Notebook](#).
-
 ---
 
 ### For more details:
